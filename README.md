@@ -14,11 +14,11 @@ The reading materials in my Java course, while high quality and packed with valu
 
 
 
-The simple solution: a Chrome extension that replaces the <body> font of whatever tab you're viewing with Open Sans, directly from Google Fonts. As a sans-serif font, it's designed to be very easy on the eyes.
+The simple solution: a Chrome extension that replaces the <body> font of whatever tab you're viewing with Open Sans, directly from Google Fonts (you don't even need to have the font installed on your computer). As a sans-serif font, it's designed to be very easy on the eyes.
 
 
 
-#### How to Install \& Use It:
+### How to Install \& Use It:
 
 
 
