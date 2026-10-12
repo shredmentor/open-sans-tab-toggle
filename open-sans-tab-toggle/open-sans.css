@@ -1,0 +1,8 @@
+/* Load Open Sans if it is not already installed on the computer. */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300..800&display=swap');
+
+/* Override page-defined fonts, including fonts set on nested elements. */
+html body, html body *:not(svg):not(svg *),
+html body *::before, html body *::after {
+  font-family: 'Open Sans', sans-serif !important;
+}
